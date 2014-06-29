@@ -1,0 +1,17 @@
+{
+  "uuid": "6e2c2392-88c8-401d-ab6d-2f5d21fd06c6",
+  "shortName": "glance-inverted",
+  "longName": "glance-inverted",
+  "companyName": "Sam Mercier Inc.",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
